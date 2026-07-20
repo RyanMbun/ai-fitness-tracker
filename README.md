@@ -19,6 +19,9 @@ A personal fitness tracking app I built with Python and Streamlit. I made this b
 ## How to run it
 
 **1. Clone the repo**
+
 **2. Install dependencies (pip install streamlit google-generativeai)**
+
 **3. Set your Gemini API key ($env:GEMINI_API_KEY="your-key-here")**
+
 **4. Run the app**
