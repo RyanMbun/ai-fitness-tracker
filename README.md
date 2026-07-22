@@ -1,6 +1,6 @@
 # 🏋️ AI Fitness Tracker
 
-A personal fitness tracking app I built with Python and Streamlit. I made this because I used to struggle with keeping a steady gym routine and knowing where to even start — this app helped make my gym journey easier and I wanted to build something that could do the same for others.
+This is a personal fitness tracking app I built with Python and Streamlit. I made this because I used to struggle with keeping a steady gym routine and knowing where to even start. This app helped make my gym journey easier, and I wanted to build something that could do the same for others.
 
 ## What it does
 
